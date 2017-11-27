@@ -22,5 +22,19 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bit-user/Desktop/apache-mahout-distribution-0.12.2/mahout-examples-0.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bit-user/Desktop/apache-mahout-distribution-0.12.2/mahout-examples-0.12.2-job.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bit-user/Desktop/apache-mahout-distribution-0.12.2/mahout-flink_2.10-0.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bit-user/Desktop/apache-mahout-distribution-0.12.2/mahout-h2o_2.10-0.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bit-user/Desktop/apache-mahout-distribution-0.12.2/mahout-h2o_2.10-0.12.2-dependency-reduced.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bit-user/Desktop/apache-mahout-distribution-0.12.2/mahout-hdfs-0.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bit-user/Desktop/apache-mahout-distribution-0.12.2/mahout-integration-0.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bit-user/Desktop/apache-mahout-distribution-0.12.2/mahout-math-0.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bit-user/Desktop/apache-mahout-distribution-0.12.2/mahout-math-scala_2.10-0.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bit-user/Desktop/apache-mahout-distribution-0.12.2/mahout-mr-0.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bit-user/Desktop/apache-mahout-distribution-0.12.2/mahout-mr-0.12.2-job.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bit-user/Desktop/apache-mahout-distribution-0.12.2/mahout-spark_2.10-0.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bit-user/Desktop/apache-mahout-distribution-0.12.2/mahout-spark_2.10-0.12.2-dependency-reduced.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bit-user/Desktop/apache-mahout-distribution-0.12.2/mahout-spark-shell_2.10-0.12.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
